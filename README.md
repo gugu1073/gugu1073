@@ -6,8 +6,8 @@
 
 <div align="center">
   <https://github.com/gugu1073>
-  <div style = "display: inline_block"><br>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gugu1073&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <div style = "display: inline_block"><br>  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gugu1073&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
