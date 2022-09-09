@@ -2,7 +2,7 @@
 
 - 🔭 Tecnologias que domíno (HTML, CSS)
 - 🌱 Tecnologias que estou apredendo (JS)
-- 🤔 Tecnollogias que vou estudar durante o curso (TS, React, Node.js, SQL)
+- 🤔 Tecnologias que vou estudar durante o curso (TS, React, Node.js, SQL)
 
 <div align="center">
   <https://github.com/gugu1073>
@@ -19,7 +19,7 @@
 <div> 
   
  <a href="https://discord.gg/Zcb8CBhp" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "ga2157724@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:contatoraga2157724@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-albuquerque-pereira-8380a6243/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
  
