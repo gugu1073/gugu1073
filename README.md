@@ -1,8 +1,7 @@
-## Olá eu sou o Gustavo Albuquerque, estudo desenvolvimento web pela rocketseat. 👨‍💻💜
+## Olá eu sou o Gustavo Albuquerque, sou desenvolvedor front-end 👨‍💻💜
 
-- 🔭 Tecnologias que domíno (HTML, CSS)
-- 🌱 Tecnologias que estou apredendo (JS)
-- 🤔 Tecnologias que vou estudar durante o curso (TS, React, Node.js, SQL)
+- 🔭 Tecnologias que domíno (HTML, CSS, JS)
+- 🤔 Tecnologias que eu estou estudando (TS, React, Node.js, SQL)
 
 <div align="center">
   <https://github.com/gugu1073>
