@@ -1,4 +1,4 @@
-## Olá eu sou o Gustavo Albuquerque, sou desenvolvedor front-end 👨‍💻💜
+## Olá! meu nome é Gustavo Albuquerque, sou desenvolvedor front-end 👨‍💻💜
 
 - 🔭 Tecnologias que domíno (HTML, CSS, JS, Git)
 - 🤔 Tecnologias que eu estou estudando (TS, React, Node.js, SQL)
