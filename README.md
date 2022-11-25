@@ -1,6 +1,6 @@
 ## Olá eu sou o Gustavo Albuquerque, sou desenvolvedor front-end 👨‍💻💜
 
-- 🔭 Tecnologias que domíno (HTML, CSS, JS)
+- 🔭 Tecnologias que domíno (HTML, CSS, JS, Git)
 - 🤔 Tecnologias que eu estou estudando (TS, React, Node.js, SQL)
 
 <div align="center">
