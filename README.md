@@ -1,12 +1,12 @@
 ## I'm a front-end developer, who is always learning and innovating, more and more.  👨‍💻💜
 
-- 👨‍💻 Technologies I master: (`HTML5` , `CSS3` , `Javascript` , `Git` )
+- 👨‍💻 Technologies I master: (`HTML5` , `CSS3` , `JavaScript` , `Git` )
 
 - 🎨 Layout Design: (`Figma`)
 
 - 🛠️ tools: (  `VScode` , `DevTools` ) 
  
-- 📚 Technologies I'm studying: ( `Typescript` , `React.js` , `Node.js` , `SQL` )
+- 📚 Technologies I'm studying: ( `TypeScript` , `React.js` , `Node.js` , `SQL` )
 
 
 <div align="center">
