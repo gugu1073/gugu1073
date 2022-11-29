@@ -1,7 +1,7 @@
 ## I'm a front-end developer, who is always learning and innovating, more and more.  👨‍💻💜
 
-- 🔭 Tecnologias que domíno (HTML, CSS, JS, Git)
-- 🤔 Tecnologias que eu estou estudando (TS, React, Node.js, SQL)
+- 🔭 Technologies I master (HTML, CSS, JS, Git)
+- 🤔 Technologies I'm studying (TS, React, Node.js, SQL)
 
 <div align="center">
   <https://github.com/gugu1073>
