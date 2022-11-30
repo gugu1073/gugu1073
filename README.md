@@ -6,7 +6,7 @@
 
 - 🛠️ tools: (  `VScode` , `DevTools` ) 
  
-- 📚 Technologies I'm studying: ( `TypeScript` , `React.js` , `Node.js` , `SQL` )
+- 📚 Technologies I'm studying at rocketseat.: ( `TypeScript` , `React.js` , `Node.js` , `SQL` )
 
 
 <div align="center">
