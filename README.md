@@ -1,12 +1,12 @@
 ## I'm a Web developer, who is always learning and innovating, more and more.  👨‍💻💜
 
-- 👨‍💻 Technologies I master: (`HTML5` , `CSS3` , `JavaScript` , `Git` )
+- 👨‍💻 Technologies I know: (`HTML5` , `CSS3` , `JavaScript` , `Git`, `node.js`, `SQL` )
 
 - 🎨 Layout Design: (`Figma`)
 
-- 🛠️ tools: (  `VScode` , `DevTools` ) 
+- 🛠️ tools: (  `VScode` , `DevTools`, `Beekeeper`, `Insomnia` ) 
  
-- 📚 Technologies I'm studying at rocketseat.: ( `TypeScript` , `React.js` , `Node.js` , `SQL` )
+- 📚 Technologies I'm studying at rocketseat.: ( `TypeScript` , `React.js` )
 
 
 <div align="center">
