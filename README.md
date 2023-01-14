@@ -21,6 +21,7 @@
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gustavo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="Gustavo-node" height="30" width="40" src="https://img.icons8.com/fluency/2x/node-js.svg">
+ <img align="center" alt="Gustavo-node" height="30" width="40" src="https://img.icons8.com/officel/2x/sql.svg">
   
   ##
  
