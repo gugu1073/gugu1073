@@ -1,4 +1,4 @@
-## I'm a Web developer, who is always learning and innovating, more and more.  👨‍💻💜
+## I'm a Front-end developer, who is always learning and innovating, more and more.  👨‍💻💜
 
 - 👨‍💻 Technologies I know: (`HTML5` , `CSS3` , `JavaScript` , `Git`, `node.js`, `SQL` )
 
